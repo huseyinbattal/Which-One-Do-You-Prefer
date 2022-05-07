@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Which-One-Do-You-Prefer/static/css/main.95fc6a2a.css",
+    "main.js": "/Which-One-Do-You-Prefer/static/js/main.b6813da4.js",
+    "static/js/787.69ed3285.chunk.js": "/Which-One-Do-You-Prefer/static/js/787.69ed3285.chunk.js",
+    "static/media/react.png": "/Which-One-Do-You-Prefer/static/media/react.a544fd8cf64d82898e91.png",
+    "static/media/angular.png": "/Which-One-Do-You-Prefer/static/media/angular.9162ef2da13effb14484.png",
+    "static/media/vue.png": "/Which-One-Do-You-Prefer/static/media/vue.b3eb5e3c484454b1de5c.png",
+    "index.html": "/Which-One-Do-You-Prefer/index.html",
+    "main.95fc6a2a.css.map": "/Which-One-Do-You-Prefer/static/css/main.95fc6a2a.css.map",
+    "main.b6813da4.js.map": "/Which-One-Do-You-Prefer/static/js/main.b6813da4.js.map",
+    "787.69ed3285.chunk.js.map": "/Which-One-Do-You-Prefer/static/js/787.69ed3285.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95fc6a2a.css",
+    "static/js/main.b6813da4.js"
+  ]
+}
